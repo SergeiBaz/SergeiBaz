@@ -2,7 +2,7 @@
 --- 
 ### :man_technologist: Обо мне:
 
-Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После этого я окончательно сделал вывод, что разработка под Android именно то, что я искал. Далее проходил курсы на YouTube, Google, Stepik, создание pet-Projects. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу по выполнению тестовых заданий от компаний.
+Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После этого я окончательно сделал вывод, что разработка под Android именно то, что я искал. Далее проходил курсы на YouTube, Google, Stepik, создание pet-Projects. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу, выполненяя тестовые задания от компаний.
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
