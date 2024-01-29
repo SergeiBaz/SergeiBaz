@@ -2,8 +2,8 @@
 --- 
 ### :man_technologist: Обо мне:
 
-Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь к этому - самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После того, как мы прожили несколько месяцев, я почувствовал себя во многих направлениях. После этого я окончательно сделал вывод, что разработка под Android мне нравится. Далее про курсы прохождения на YouTube, Google, Stepik, создание пет-проектов. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу по выполнению тестовых заданий от компаний!
-
+Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После того, как мы прожили несколько месяцев, я почувствовал себя во многих направлениях. После этого я окончательно сделал вывод, что разработка под Android мне нравится. Далее про курсы прохождения на YouTube, Google, Stepik, создание пет-проектов. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу по выполнению тестовых заданий от компаний!
+![snake animation](https://github.com/<seu SergeiBaz>/<seu SergeiBaz>/blob/output/github-contribution-grid-snake2.svg)
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
