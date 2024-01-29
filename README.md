@@ -3,11 +3,13 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После этого я окончательно сделал вывод, что разработка под Android именно то, что я искал. Далее проходил курсы на YouTube, Google, Stepik, создание pet-Projects. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу, выполненяя тестовые задания от компаний.
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+<p align="center">
+ <img width="600" src=".github/workflows/github-snake.svg" alt="snake"/>
+</p>
+
+
 - :telescope: Изучаю android-разработку. 
 - :zap: Хочу освоить новую проффесию и найти работу. 
 - :mailbox: Как связаться со мной:[![TelegramBadge](https://img.shields.io/badge/-sergeibazlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergo_Cor) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](sergeibazlov5@gmail.com)
@@ -24,6 +26,10 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
