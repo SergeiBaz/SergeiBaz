@@ -2,12 +2,12 @@
 --- 
 ### :man_technologist: Обо мне:
 
-Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После того, как мы прожили несколько месяцев, я почувствовал себя во многих направлениях. После этого я окончательно сделал вывод, что разработка под Android мне нравится. Далее про курсы прохождения на YouTube, Google, Stepik, создание пет-проектов. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу по выполнению тестовых заданий от компаний!
-![snake animation](https://github.com/<seu SergeiBaz>/<seu SergeiBaz>/blob/output/github-contribution-grid-snake2.svg)
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После этого я окончательно сделал вывод, что разработка под Android именно то, что я искал. Далее проходил курсы на YouTube, Google, Stepik, создание pet-Projects. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу по выполнению тестовых заданий от компаний.
+---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 - :telescope: Изучаю android-разработку. 
 - :zap: Хочу освоить новую проффесию и найти работу. 
 - :mailbox: Как связаться со мной:[![TelegramBadge](https://img.shields.io/badge/-sergeibazlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergo_Cor) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](sergeibazlov5@gmail.com)
