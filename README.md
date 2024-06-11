@@ -2,7 +2,7 @@
 --- 
 ### :man_technologist: Обо мне:
 
-Я начинающий Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с самостоятельное изучение языка Kotlin и чтение книги "Head First Kotlin". После этого я окончательно сделал вывод, что разработка под Android именно то, что я искал. Далее проходил курсы на YouTube, Google, Stepik, создание pet-Projects. В настоящий момент я продолжаю прокачивать себя и ищу свою первую работу, выполненяя тестовые задания от компаний.
+Я Android-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it: В 22 году я начал изучать разработку приложений для Android самостоятельно и не только. После этого в 2023 году устроился в компанию TheBestApp и по сей день продолжаю трудиться в данной компании.(Работаем над проектами крупных банков и приложений для химического производства, инвентаризации склада.(Основной стек MVI, MVVM, Kotlin, Jetpack Compose, Coroutines, Koin, Retrofit, Room, Coil)
 
 ---
 <p align="center">
@@ -11,7 +11,7 @@
 
 
 - :telescope: Изучаю android-разработку. 
-- :zap: Хочу освоить новую проффесию и найти работу. 
+- :zap: Хочу найти подходящую для себя компанию, чтобы развиваться дальше и прокачивать свои скиллы. 
 - :mailbox: Как связаться со мной:[![TelegramBadge](https://img.shields.io/badge/-sergeibazlov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sergo_Cor) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](sergeibazlov5@gmail.com)
 
 ---
